@@ -1,0 +1,2 @@
+# Credit-Card-Fraud-Detection-using-Machine-Learning
+This project illustrates the modelling of a dataset using machine learning with credit card fraud detection. The credit card fraud detection problem includes modelling past credit card transactions with the data of the ones that turned out to be fraud. The data set used in the project is a public open-source dataset downloaded from Kaggle which contains past credit card transactions of 917 customers through 693 merchants.
